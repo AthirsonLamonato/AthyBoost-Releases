@@ -88,8 +88,6 @@ Os ajustes guardam seus valores originais antes da aplicação. Para desfazê-lo
 
 O overlay é opcional e usa uma janela separada. As estatísticas de frames usam PresentMon. Compatibilidade e regras de anticheat variam: o AthyBoost não é homologado por todos os fornecedores e não oferece garantia contra punições de terceiros.
 
-As proteções internas restringem alterações em componentes sensíveis, incluindo processos e inicialização do ReetDetect. Isso não substitui as regras do jogo ou uma autorização do fornecedor do anticheat.
-
 ## Sugestões e suporte
 
 Descreva o que aconteceu, qual versão você usa e o resultado esperado. Não envie senhas, tokens ou arquivos pessoais desnecessários.
