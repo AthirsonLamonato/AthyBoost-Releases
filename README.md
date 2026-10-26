@@ -22,6 +22,7 @@ Desenvolvido por **Athirson Lamonato Ferreira**. Este é o repositório público
 | Ferramentas | Inicialização, limpeza, manutenção, instalação de aplicativos, testes de rede, mouse e monitor. |
 | Overlay opcional | Janela própria com estatísticas de desempenho; medição de frames via PresentMon, sem injeção no jogo. |
 | Histórico e Recovery | Consulta das alterações e restauração dos valores originais. |
+| Preferências | Abas Geral, Sugestões e Releases; acesso aos downloads e à documentação pública. |
 
 O AthyBoost não promete ganho de FPS. Cada ajuste depende do computador, do Windows, do jogo e das configurações em uso.
 
@@ -89,6 +90,12 @@ Os ajustes guardam seus valores originais antes da aplicação. Para desfazê-lo
 O overlay é opcional e usa uma janela separada. As estatísticas de frames usam PresentMon. Compatibilidade e regras de anticheat variam: o AthyBoost não é homologado por todos os fornecedores e não oferece garantia contra punições de terceiros.
 
 ## Sugestões e suporte
+
+Na versão 0.3.2 ou superior, abra **Configurações → Sugestões**. Preencha assunto, título e descrição; contato para resposta é opcional. Escolha abrir no seu aplicativo de e-mail, usar o Gmail ou copiar o texto.
+
+O AthyBoost prepara o rascunho para `athirson.lamonato@gmail.com`. **Você revisa e confirma o envio no seu e-mail**: abrir o rascunho não significa que a mensagem foi entregue. É necessária uma conta de e-mail para enviar. Se o texto for grande para o link do cliente, o app copia o corpo completo para você colar no rascunho.
+
+São incluídos os campos preenchidos e a versão do aplicativo. O formulário não anexa automaticamente inventário, logs, arquivos, senhas ou dados do computador. As sugestões não são publicadas como Issues no GitHub. O provedor de e-mail escolhido processa a mensagem segundo suas próprias regras.
 
 Descreva o que aconteceu, qual versão você usa e o resultado esperado. Não envie senhas, tokens ou arquivos pessoais desnecessários.
 
