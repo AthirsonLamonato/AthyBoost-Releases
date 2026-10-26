@@ -98,13 +98,6 @@ Descreva o que aconteceu, qual versão você usa e o resultado esperado. Não en
 - **LinkedIn:** [Athirson Lamonato Ferreira](https://www.linkedin.com/in/athirsonlamonato/)
 - **GitHub:** [AthirsonLamonato](https://github.com/AthirsonLamonato)
 
-## Créditos e licenças
-
-- **RESET EXPLODE / GustavoReset:** getters NVML adaptados sob licença MIT. Copyright (c) 2026 Gustavo (GustavoReset). [Projeto original](https://github.com/GustavoReset/ResetExplode).
-- **Intel PresentMon:** medição de frames via eventos do Windows, sob licença MIT. [Projeto original](https://github.com/GameTechDev/PresentMon).
-
-Os avisos integrais dessas licenças acompanham o pacote na pasta `ThirdParty` e também estão disponíveis neste repositório. A licença dos componentes de terceiros não altera automaticamente a licença do aplicativo inteiro.
-
 ## Histórico de versões
 
 Consulte as [releases públicas](https://github.com/AthirsonLamonato/AthyBoost-Releases/releases) para baixar versões, ler alterações, limitações e validações realizadas. Use a versão mais recente como padrão; versões anteriores ficam disponíveis apenas como histórico.
